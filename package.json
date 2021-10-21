@@ -6,6 +6,9 @@
   "repository": "https://github.com/LookupGuru/SANDBOX.git",
   "author": "Berk Altıok <berkpw@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "serve": "node index.js"
+  },
   "dependencies": {
     "json-server": "^0.17.0"
   }

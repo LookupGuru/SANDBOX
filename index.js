@@ -4,5 +4,5 @@ const router = jsonServer.router('db.json')
 
 server.use(router)
 server.listen(3600, () => {
-  console.log('JSON Server is running\nhttp://localhost:3000')
+  console.log('SANDBOX Server is running\nhttp://localhost:3600')
 })
