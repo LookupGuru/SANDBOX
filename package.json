@@ -1,0 +1,12 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "LookupGuru API SandBox",
+  "main": "index.js",
+  "repository": "https://github.com/LookupGuru/SANDBOX.git",
+  "author": "Berk Altıok <berkpw@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

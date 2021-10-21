@@ -1,0 +1,51 @@
+{
+  "lookup": {
+    "code": 200,
+    "success": true,
+    "data": {
+      "type": "USER",
+      "id": "94505933362708480",
+      "avatar": {
+        "id": "a_cc5c74fff548c4c0d038dc8d72249d35",
+        "url": "https://cdn.discordapp.com/avatars/94505933362708480/a_cc5c74fff548c4c0d038dc8d72249d35.gif"
+      },
+      "banner": {
+        "id": "a_9dc2f91fd73f260c98c67f749b0f203e",
+        "url": "https://cdn.discordapp.com/banners/94505933362708480/a_9dc2f91fd73f260c98c67f749b0f203e.gif",
+        "color": "#d7cbfd"
+      },
+      "created_at": 1442602370349,
+      "flags": {
+        "THANKS_1": {
+          "title": "Geliştirme Ve Katkı",
+          "text": "Projeyi geliştirmede katkı sağlayanlar."
+        },
+        "HYPESQUAD_EVENTS": {
+          "title": "Discord HypeSquad"
+        },
+        "HOUSE_BALANCE": {
+          "title": "HypeSquad Balance"
+        },
+        "EARLY_SUPPORTER": {
+          "title": "Erken Dönem Destekçisi"
+        },
+        "BUGHUNTER_LEVEL_2": {
+          "title": "BugHunter Seviye 2"
+        },
+        "EARLY_VERIFIED_BOT_DEVELOPER": {
+          "title": "Erken Onaylanan Geliştirici"
+        },
+        "DISCORD_CERTIFIED_MODERATOR": {
+          "title": "Discord Onaylı Moderatör"
+        },
+        "NITRO": {
+          "title": "Nitro Abonesi",
+          "text": "Bu veri %99 doğruluktadır.\nHata payı olabilir."
+        }
+      },
+      "is_bot": false,
+      "username": "Berk",
+      "discriminator": "0000"
+    }
+  }
+}
