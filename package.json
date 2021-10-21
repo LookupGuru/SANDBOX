@@ -10,6 +10,8 @@
     "serve": "node index.js"
   },
   "dependencies": {
-    "json-server": "^0.17.0"
+    "consola": "^2.15.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
   }
 }
